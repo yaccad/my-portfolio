@@ -11,4 +11,4 @@ HTML
 CSS
 Font Awesome
 Google Fonts
-Webpack
+Webpack build
